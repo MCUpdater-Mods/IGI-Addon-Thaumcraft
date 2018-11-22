@@ -1,0 +1,6 @@
+ingameinfoxml.tag.category.thaumcraft.name=Thaumcraft
+ingameinfoxml.tag.thaumaura.desc=Аура в текущем чанке
+ingameinfoxml.tag.thaumflux.desc=Выброс в текущем чанке
+ingameinfoxml.tag.thaumwarpperm.desc=Постоянное искажение
+ingameinfoxml.tag.thaumwarpnormal.desc=Нормальное искажение
+ingameinfoxml.tag.thaumwarptemp.desc=Временное искажение
